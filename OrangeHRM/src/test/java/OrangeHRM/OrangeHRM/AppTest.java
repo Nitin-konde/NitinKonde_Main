@@ -25,6 +25,12 @@ public class AppTest
     }
 
     public void sub(){
-assert.equal();
+int a=0;
+int b=1;
+
+int sub=a-b;
         
+}
+
+
 }
